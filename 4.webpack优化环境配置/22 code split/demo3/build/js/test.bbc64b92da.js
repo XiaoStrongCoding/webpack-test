@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,function(n,t,u){"use strict";function r(n,t){return n*t}function c(n,t){return n-t}u.r(t),u.d(t,"muti",(function(){return r})),u.d(t,"subtract",(function(){return c}))}]]);
